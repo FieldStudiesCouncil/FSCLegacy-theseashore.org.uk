@@ -7,3 +7,5 @@ The copy was taken using the following `wget` command:
 ```
 wget --mirror --convert-links --html-extension --page-requisites --no-parent https://theseashore.org.uk/
 ```
+
+https://creativecommons.org/licenses/by-nc-nd/3.0/
