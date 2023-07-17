@@ -60,10 +60,18 @@ Dunes&nbsp;</a></li>
 <a name="content" id="content"></a> 
 <h1>Search</h1>
 <p>Enter a keyword or keywords and click the SEARCH button.</p>
-<form method="GET" action="https://www.google.com/u/FSCSeashore">
+<!-- <form method="GET" action="https://www.google.com/u/FSCSeashore">
 <input type="text" name="q" size="31" maxlength="255" value>
 <input type="submit" name="sa" value="SEARCH">
 <input type="hidden" name="domains" value="www.theseashore.org.uk"><input type="hidden" name="sitesearch" value="www.theseashore.org.uk" checked>
+</form> -->
+<form action="https://duckduckgo.com/" method="get">
+	<input type="text" name="q" placeholder="Enter your query">
+	<input type="hidden" name="q" value="site:fsclegacy-theseashore-org-uk.pages.dev">
+  <input type="hidden" name="kl" value="uk-en">
+  <input type="hidden" name="kp" value="-1">
+  <input type="hidden" name="k1" value="-1">
+	<input type="submit" value="Search">
 </form>
 You could also try using the <a href="sitemap.html">Site Map</a>.
  </div>
