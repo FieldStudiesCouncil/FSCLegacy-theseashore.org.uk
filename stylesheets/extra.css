@@ -1,1 +1,56 @@
-input{font-size:11px;font-family:Arial,sans-serif;color:#000;background-color:#cfc}input:focus{background:#066;color:#fff}select{font-size:11px;font-family:Arial,sans-serif;color:#000;background-color:#cfc}textarea{font-size:11px;font-family:Arial,sans-serif;color:#000;background-color:#cfc}img.icon{border:3px solid #066}p.boxright,p.boxbelow{background:#f99;padding:10px;color:#000;font-size:1.1em;margin-left:1em;margin-right:1em}p.boxright{float:right;width:20%}p.boxfixed{float:right;width:12%;padding:10px;margin:5px;color:#fff;font-size:10pt;border:2px #000 dashed;background:#f99}p.sidemenubox{background:#fff;border:2px gray solid;margin:2px;padding:3px;text-align:justify;font-size:10pt}
+input {
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  color: #000;
+  background-color: #cfc;
+}
+input:focus {
+  background: #066;
+  color: #fff;
+}
+select {
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  color: #000;
+  background-color: #cfc;
+}
+textarea {
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  color: #000;
+  background-color: #cfc;
+}
+img.icon {
+  border: 3px solid #066;
+}
+p.boxright,
+p.boxbelow {
+  background: #f99;
+  padding: 10px;
+  color: #000;
+  font-size: 1.1em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+p.boxright {
+  float: right;
+  width: 20%;
+}
+p.boxfixed {
+  float: right;
+  width: 12%;
+  padding: 10px;
+  margin: 5px;
+  color: #fff;
+  font-size: 10pt;
+  border: 2px #000 dashed;
+  background: #f99;
+}
+p.sidemenubox {
+  background: #fff;
+  border: 2px gray solid;
+  margin: 2px;
+  padding: 3px;
+  text-align: justify;
+  font-size: 10pt;
+}
